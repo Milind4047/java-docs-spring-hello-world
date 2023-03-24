@@ -14,7 +14,7 @@ public class DemoApplication {
 	}
 
 	@RequestMapping("/")
-	String Hii Milind Pelagade () {
+	String Hello Azure World () {
 		return "Hello World!";
 	}
 }
