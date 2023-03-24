@@ -14,7 +14,7 @@ public class DemoApplication {
 	}
 
 	@RequestMapping("/")
-	String Hii Milind Pelagade i love You() {
+	String Hii Milind Pelagade () {
 		return "Hello World!";
 	}
 }
